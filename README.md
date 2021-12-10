@@ -94,4 +94,4 @@ If algorithm values are retrieved via EF Core or an API we can create repositori
 
 ##### Replace the IQuoteCalculator in QuoteRatingEngine
 
-* This pattern is likely not appropriate for the problems this engine will ultimately be solving
+* This pattern is likely not appropriate for the problems this engine will ultimately be solving and was included to demonstrate separation of concerns
