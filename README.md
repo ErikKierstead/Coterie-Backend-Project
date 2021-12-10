@@ -85,6 +85,9 @@ If algorithm values are retrieved via EF Core or an API we can create repositori
 * Create Repository project with repositories and inject into QuoteRatingEngine
 * Even without a solid schema I would move values out of QuoteRatingEngine into repository for demo
 
+##### Evaluate Types for Values
+* Carefully review the types used for values in calculations and rounding
+
 ##### Validation, Swagger, and Error Handling
 
 * Research into best practices
