@@ -6,7 +6,7 @@ The following is my implementation of the [Backend Project for Coterie.](https:/
 
 ![](https://raw.githubusercontent.com/ErikKierstead/Coterie-Backend-Project/main/QuoteRatingAPI-Request-Flow.png?token=AAZ6SN6OGHAVABLTARDSXMTBXRLL2)
 
-Please note I did take some extra time on the README and diagram to demonstrate my documentation experience.
+(Note: I did take some extra time on the README and diagram to demonstrate my documentation experience)
 
 #### Required Tools and Software
 
