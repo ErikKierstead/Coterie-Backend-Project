@@ -4,7 +4,7 @@ The following is my implementation of the [Backend Project for Coterie.](https:/
 
 ##### High-level diagram of Quote Rating API
 
-![](https://raw.githubusercontent.com/ErikKierstead/Coterie-Backend-Project/main/QuoteRatingAPI%20Flow.png?token=AAZ6SN4IZBTZ7WO7BG62WOTBXRG7O)
+![](https://raw.githubusercontent.com/ErikKierstead/Coterie-Backend-Project/main/QuoteRatingAPI-Request-Flow.png?token=AAZ6SN6OGHAVABLTARDSXMTBXRLL2)
 
 Please note I did take some extra time on the README and diagram to demonstrate my documentation experience.
 
