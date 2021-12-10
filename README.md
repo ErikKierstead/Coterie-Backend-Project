@@ -6,7 +6,7 @@ The following is my implementation of the [Backend Project for Coterie.](https:/
 
 ![](https://raw.githubusercontent.com/ErikKierstead/Coterie-Backend-Project/main/QuoteRatingAPI-Request-Flow.png?token=AAZ6SN6OGHAVABLTARDSXMTBXRLL2)
 
-(Note: I did take some extra time on the README and diagram to demonstrate my documentation experience)
+(Note: I took some extra time on the README and diagram)
 
 #### Required Tools and Software
 
@@ -92,6 +92,6 @@ If algorithm values are retrieved via EF Core or an API we can create repositori
 
 * Research into best practices
 
-##### Replace the IQuoteCalculator in QuoteRatingEngine
-
-* This pattern is likely not appropriate for the problems this engine will ultimately be solving and was included to demonstrate separation of concerns
+##### Replace the IPremiumQuoteCalculator in QuoteRatingEngine
+* This calculator pattern is not likely appropriate for the problem this engine would solve
+* It was included to demonstrate separation of concerns
